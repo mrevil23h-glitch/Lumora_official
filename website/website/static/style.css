@@ -1,0 +1,37 @@
+body {
+
+    background:#0b0b16;
+    color:white;
+    text-align:center;
+    font-family:Arial;
+
+}
+
+
+.logo {
+
+    width:220px;
+    margin-top:40px;
+    border-radius:20px;
+
+}
+
+
+h1 {
+
+    font-size:35px;
+
+}
+
+
+a {
+
+    display:inline-block;
+    background:#ff4fa3;
+    color:white;
+    padding:12px 25px;
+    margin:10px;
+    border-radius:20px;
+    text-decoration:none;
+
+}
