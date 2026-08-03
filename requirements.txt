@@ -1,0 +1,5 @@
+python-telegram-bot
+flask
+flask-login
+werkzeug
+python-dotenv
